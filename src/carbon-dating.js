@@ -22,6 +22,8 @@ function dateSample(/* sampleActivity */) {
   // remove line with error and write your code here
 }
 
+console.log(Math.pow(0.20, 2.71));
+
 module.exports = {
   dateSample
 };
